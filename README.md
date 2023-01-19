@@ -20,4 +20,4 @@ FEATURES:
 
 APPLICATION SCREEN: -
 
-[Home Screenshot](Screenshot%202023-01-20%20at%2001.03.49.png)
+<img width="1392" alt="Screenshot 2023-01-20 at 01 03 49" src="https://user-images.githubusercontent.com/53343897/213557189-9d2f1824-f72e-4e86-97a7-e4ee648099b0.png">
